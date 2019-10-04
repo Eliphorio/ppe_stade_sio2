@@ -1,0 +1,7 @@
+todo : 
+maquette de la borne ## OK ##
+diagramme de cas dutilisation ## OK ##
+
+scenario nominal + exception etc
+diagramme de sequence
+diagramme de classe
