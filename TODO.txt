@@ -2,9 +2,9 @@ todo :
 maquette de la borne ## OK ##
 diagramme de cas dutilisation ## OK ##
 
-scenario nominal + exception etc
+scenario nominal + exception etc ## OK ##
 diagramme de sequence
-diagramme de classe
+diagramme de classe ## Pas à faire#
 
 https://zenkit.com/c/0wJYAoI-U/ppe-1-sio-2?v=I4KV9GfKsL
 
